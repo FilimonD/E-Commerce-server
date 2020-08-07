@@ -3,17 +3,20 @@
     {
       "id": 1,
       "name": "addidas",
-      "price": 45
+      "price": 45,
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "addidas",
-      "price": 45
+      "price": 45,
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
     },
     {
-      "id": 1,
+      "id": 3,
       "name": "addidas",
-      "price": 45
+      "price": 45,
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
     }
   ]
 }
