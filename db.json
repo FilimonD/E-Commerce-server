@@ -1,0 +1,19 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "name": "addidas",
+      "price": 45
+    },
+    {
+      "id": 1,
+      "name": "addidas",
+      "price": 45
+    },
+    {
+      "id": 1,
+      "name": "addidas",
+      "price": 45
+    }
+  ]
+}
