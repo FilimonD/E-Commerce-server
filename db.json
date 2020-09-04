@@ -1,22 +1,194 @@
 {
-  "shoes": [
+  "trainers": [
     {
       "id": 1,
-      "name": "addidas",
-      "price": 45,
-      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
+      "name": "Unisex-Addidas x running trainers in Black and Orange",
+      "price": 100.0,
+      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg",
+      "description": "Easy running shoes,Regular fit, rubber outsole "
     },
     {
       "id": 2,
-      "name": "addidas",
-      "price": 45,
-      "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
+      "name": "Men-Nike training shoes in Triple Black",
+      "price": 80.0,
+      "imageUrl": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSuTbmOH50nCKoMGnniE7PfRbyr_-JrTc9-flR8cuam0NMDCb6A07Fo-nnq_2GFzQl7XWILaMBn6A&usqp=CAc ",
+      "description": "Designed with padded ankle collar for secure fit,cushined insole for maximum shock absorption"
     },
     {
       "id": 3,
-      "name": "addidas",
-      "price": 45,
+      "name": "Men-New Balance training shoes in Grey and Navy",
+      "price": 59.99,
+      "imageUrl": "https://pyxis.nymag.com/v1/imgs/659/3d7/5e56dd69912a3d1c5b7ceb387fa2ab8a78-newblance.2x.rhorizontal.w600.jpg",
+      "description": ""
+    },
+    {
+      "id": 4,
+      "name": "Unisex-Asics running shoes in Grey",
+      "price": 70.0,
+      "imageUrl": "https://images.asics.com/is/image/asics/1012A151_021_SR_RT?$sfcc-product$",
+      "description": "Easy running shoes,Regular fit, rubber outsole "
+    },
+    {
+      "id": 5,
+      "name": "Women-Nike training shoes in Pink ",
+      "price": 60.0,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nike-training-shoes-1595319860.png?resize=480:*",
+      "description": "Dual-density midslole for cushioning and suport, Durable outsole for great grip "
+    },
+    {
+      "id": 6,
+      "name": "Unisex-Addidas powerlifting trainers in White",
+      "price": 79.99,
+      "imageUrl": "https://i.pinimg.com/originals/88/0d/5b/880d5b7d610a34d8f25d573a22437be0.jpg",
+      "description": "Breathable and supportive shoes,Built with stable narrow fit for everyday Training "
+    },
+    {
+      "id": 7,
+      "name": "Women-Reebok crossfit trainers in Violet",
+      "price": 49.99,
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/reebok-nano-gym-trainers-1589551653.png?crop=1.00xw:0.613xh;0,0.174xh&resize=480:*",
+      "description": "Lightweight EVA foam cushioning, Soft woven textile"
+    },
+    {
+      "id": 8,
+      "name": "Women- Asics cross-fit training shoes in Blue",
+      "price": 60.0,
+      "imageUrl": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1556848687-41Va2Bj52TIL.jpg?crop=1.00xw:1.00xh;0,0&resize=480:*",
+      "description": "Designed with perforated sock liner to allow Breathability, Firm and flat structure for stable training"
+    }
+  ],
+  "clothings": [
+    {
+      "id": 9,
+      "name": "Men-Under Armour top",
+      "price": 30.0,
+      "imageUrl": "https://www.wigglestatic.com/product-media/101024218/Under-Armour-MK1-Short-Sleeve-Gym-Top-Short-Sleeve-Running-Tops-Silt-Brown-SS19-1323415-221SM.jpg?w=430&h=430&a=7",
+      "description": "Easy running shoes,Regular fit, rubber outsole "
+    },
+    {
+      "id": 10,
+      "name": "Women-workout leggings in grey",
+      "price": 15,
+      "imageUrl": "https://primedia.primark.com/s/primark/130067760_ms?locale=en-*,sl-*,*&$product-thumbnail$",
+      "description": "High rise fit, sweat-wicking fabric"
+    },
+    {
+      "id": 11,
+      "name": "Men-Puma jogging trousers in black",
+      "price": 30,
+      "imageUrl": "https://images.sportsdirect.com/images/products/48702340_l.jpg",
+      "description": " Elasticated and Drawstring Adjusted Waistband, Regular fit "
+    },
+    {
+      "id": 12,
+      "name": "Women-Under Armour long sleeve top in white",
+      "price": 30,
+      "imageUrl": "https://www.wigglestatic.com/product-media/100579980/Under-Armour-Women-s-Move-Mock-Gym-Top-Internal-White-Black-AW18-1324686-100001.jpg?w=430&h=430&a=7",
+      "description": "Material wicks sweat and dries fast, Front pocket "
+    },
+    {
+      "id": 13,
+      "name": "Men-gym shorts in black",
+      "price": 20,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRc2fZttPlAyVy-001yDQQzP0Sf5S7bx1voQg&usqp=CAU ",
+      "description": "Regular fit,Elasticated Waist,Drawstring Fastening,Moisture Wicking Fabric "
+    },
+    {
+      "id": 14,
+      "name": "Men-Long sleeve running top in black",
+      "price": 30,
+      "imageUrl": "https://i.frg.im/LisKqJG1/adidas-men-tech-fit-climalite-ls-tight-running-jersey-shirts-cd2417-01_600.jpg?v=1529641397.503",
+      "description": "Easy fit lightweight, slim fit"
+    },
+    {
+      "id": 15,
+      "name": "Women-Long sleeve yoga top in green",
+      "price": "20",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2464/6867/products/2018-Women-Gym-White-Yoga-Crop-Tops-Yoga-Shirts-Long-Sleeve-Workout-Tops-Fitness-Running-Sport_a73b0bcc-58ae-4a90-af85-71473c75c992_300x.jpg?v=1551678566",
+      "description": "Crop top,Anti-wrinkle fabric"
+    },
+    {
+      "id": 16,
+      "name": "Women-gym shorts in pink",
+      "price": 30,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSa0KZorLmUU-EvYPRkkZPyE-ueA96JaXO6bg&usqp=CAU",
+      "description": "Slim fit,Strech material"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 17,
+      "name": "Fitness Gloves",
+      "price": 15,
+      "imageUrl": "https://i.ebayimg.com/images/g/dRoAAOSwB09YRRDZ/s-l300.jpg",
+      "description": "Durable fabric, Leather palm for protection and grip, Elastic band for snug ",
+      "options": { "color": ["blue", "red"] }
+    },
+    {
+      "id": 18,
+      "name": "Ab Wheel roller",
+      "price": 10,
+      "imageUrl": "https://picture-cdn.wheretoget.it/hv6m1w-l-610x610-home+accessory-fitness+accessories-gym+accessories-exercise+equipments.jpg ",
+      "description": " Lightweight and portable, soft grip "
+    },
+    {
+      "id": 19,
+      "name": "Skipping Rope ",
+      "price": 5,
+      "imageUrl": "https://www.zest.pk/wp-content/uploads/2018/10/Fitness-Skipping-Rope-Speed-Jump-Rope-Soft-Handle-Boxing-Exercise-Workout-Gym-Accessories-5.png ",
+      "description": "Soft nylon rope, soft handles for ease of use "
+    },
+    {
+      "id": 20,
+      "name": "Gym bag",
+      "price": 25,
+      "imageUrl": "https://www.sportfx.com/images/products/70106703_3pl.jpg ",
+      "description": "Water resistant material, adjustable padded shoulder strap, padded grab handle"
+    },
+    {
+      "id": 21,
+      "name": "Protein Shaker Bottle",
+      "price": 10,
+      "imageUrl": "https://cdn11.bigcommerce.com/s-jbxhnf10/images/stencil/1280x1280/products/7690/39437/apion1ubr__77212.1580305095.jpg?c=2?imbypass=on",
+      "description": "Large bottle with secure top lid for leak-proof mixing,Wire ball included for easy mixing"
+    },
+    {
+      "id": 22,
+      "name": "Resistance Bands Pack of three",
+      "price": 20,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0266/1187/5875/products/13_Inch_BandsSm_580x.jpg?v=1575548154 ",
+      "description": "Strechy yet durable bands, 3 levels of resistance strength(light,medium and heavy) "
+    },
+    {
+      "id": 23,
+      "name": "Yoga Mat",
+      "price": 20,
+      "imageUrl": "https://www.soul-destiny.co.uk/user/products/large/NBRyogamatPurple.jpg",
+      "description": "15mm thick foam mat, Easy clean non-slip texture, Lightweight and comes with carry straps "
+    },
+    {
+      "id": 24,
+      "name": "Massgage roller 33x14cm",
+      "price": 20,
+      "imageUrl": "https://cdn02.plentymarkets.com/zkz64ybyye6y/item/images/2457/full/xxxx-Faszienrolle--001.jpg",
+      "description": "EVA foam roller,Massaging surface witg knobs to target deep aching muscles"
+    }
+  ],
+  "categories": [
+    {
+      "id": 25,
+      "name": "clothings",
+      "imageUrl": " https://images-na.ssl-images-amazon.com/images/I/51IPLeXwRyL._AC_UX385_.jpg"
+    },
+    {
+      "id": 26,
+      "name": "trainers",
       "imageUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/2b303fa49241454badf2aa3001221acc_9366/Archivo_Shoes_Black_EF0436_EF0436_01_standard.jpg"
+    },
+    {
+      "id": 27,
+      "name": "accessories",
+      "imageUrl": "https://i1.wp.com/images-eu.ssl-images-amazon.com/images/I/41oV-3EwXTL.jpg?fit=500%2C500&ssl=1"
     }
   ]
 }
